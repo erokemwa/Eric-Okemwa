@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Eric Okemwa</h1>
 
-- 🌱 I’m a **Software Engineering**
+- 🌱 I’m a **Software Engineer**
 
 - 💬 Ask me about **C, Shell, Python, MySQL**
 
