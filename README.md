@@ -3,9 +3,9 @@
 </div>
 <h1 align="center">Hi 👋, I'm Eric Okemwa</h1>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m a **Software Engineering**
 
-- 💬 Ask me about **C,Shell,Python,MySqL**
+- 💬 Ask me about **C, Shell, Python, MySQL**
 
 
 <h3 align="left">Connect with me:</h3>
