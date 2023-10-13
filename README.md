@@ -5,7 +5,7 @@
 
 - 🌱 I’m a **Software Engineer**
 
-- 💬 Ask me about **C, Shell, Python, MySQL**
+- 💬 Ask me about **C, Shell, Python, Javascript, MySQL**
 
 
 <h3 align="left">Connect with me:</h3>
